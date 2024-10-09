@@ -1,0 +1,8 @@
+export const LANDING = '/'
+export const CAREERS = '/careers'
+export const CONTACT = '/contact'
+export const TEAM = '/team'
+export const ABOUT = '/about'
+export const PARTNERS = '/partners'
+export const POLICY = '/policy'
+export const SERVICES = '/services'
